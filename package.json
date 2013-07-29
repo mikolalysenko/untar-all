@@ -1,0 +1,29 @@
+{
+  "name": "untar-all",
+  "version": "0.0.0",
+  "description": "Untars all files in a tar",
+  "main": "untarjs.js",
+  "dependencies": {
+    "tar": "~0.1.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/untar-all.git"
+  },
+  "keywords": [
+    "tar",
+    "all",
+    "untar"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "ede87baa81db5fc9df51b3609312540c28964220",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/untar-all/issues"
+  }
+}
